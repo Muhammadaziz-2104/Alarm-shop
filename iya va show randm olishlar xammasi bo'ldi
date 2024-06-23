@@ -1,0 +1,44 @@
+[33mcommit aadb535ce5280d556870e6453d5e4d79e13e479d[m[33m ([m[1;36mHEAD -> [m[1;32mtask2[m[33m, [m[1;31morigin/task2[m[33m)[m
+Author: Irodah <muhammadaziz21072004@gmail.com>
+Date:   Sun Mar 10 07:02:21 2024 +0500
+
+    paginatsiya va show randm olishlar xammasi bo'ldi
+
+[33mcommit b7cdee303f5b5ab01156862808e968bb3c2d56d0[m
+Author: Irodah <muhammadaziz21072004@gmail.com>
+Date:   Thu Mar 7 18:20:15 2024 +0500
+
+    product show bo'lgan xolatgacha qildim rasimda xatolik berdi shu erda to'xtadi slug dan ko'r xammasini
+
+[33mcommit a8f8070e7bd5e0403cf4003fc88fd4af2f3dcc10[m
+Author: Irodah <muhammadaziz21072004@gmail.com>
+Date:   Tue Mar 5 23:09:47 2024 +0500
+
+    Admin bilan userni qilyotgandim chala qoldi logini remmber me ishlamayotgandi shuni to'g'rlash kerak.
+
+[33mcommit 203d67dd04881ff9651a166d0932b228d3beebc6[m
+Author: Irodah <muhammadaziz21072004@gmail.com>
+Date:   Tue Mar 5 18:24:45 2024 +0500
+
+    Admin bilan userni qilyotgandim chala qoldi logini remmber me ishlamayotgandi shuni to'g'rlash kerak.
+
+[33mcommit f0504869d5f86bc1e31da338d666656200b6f552[m
+Merge: ed5233e 368abd3
+Author: Muhammadaziz-2104 <162313926+Muhammadaziz-2104@users.noreply.github.com>
+Date:   Tue Mar 5 17:19:45 2024 +0500
+
+    Merge pull request #1 from Muhammadaziz-2104/task1
+    
+    test commit first
+
+[33mcommit 368abd37a0325c9b69b23cae1aae90db086623ba[m[33m ([m[1;31morigin/task1[m[33m, [m[1;32mtask1[m[33m)[m
+Author: Irodah <muhammadaziz21072004@gmail.com>
+Date:   Tue Mar 5 17:17:49 2024 +0500
+
+    test commit first
+
+[33mcommit ed5233e636c9f16d670c495e8eb629c34438a9cb[m
+Author: Muhammadaziz-21 <muhammadaziz21072004@gmail.com>
+Date:   Tue Mar 5 17:00:18 2024 +0500
+
+    test
